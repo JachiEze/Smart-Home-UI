@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Project2</string>
+    <string name="home_title">Smart Home</string>
+    <string name="kilowatt_hr">kWh</string>
+</resources>
